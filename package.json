@@ -1,0 +1,13 @@
+{
+  "name": "ai-legal-privacy-hub-data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-news": "node scripts/update-news.mjs"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "rss-parser": "^3.13.0"
+  }
+}
