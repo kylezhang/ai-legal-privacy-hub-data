@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-04-08T22:57:50.416Z",
+  "lastSyncedAt": "2026-04-08T23:37:41.928Z",
   "items": [
     {
       "id": "https://www.gov.uk/government/publications/uk-national-delegate-support-for-the-advanced-technology-call/ai-hub-itt-guidance",
@@ -469,6 +469,18 @@
       "region": "USA",
       "title_zh": "FTC向社交媒体和视频流服务发出6 (b)订单",
       "summary_zh": "FTC发布6 (b)社交媒体和视频流服务订单lfair 2020年12月14日| 2:11 PM FTC发布6 (b)社交媒体和视频流服务订单By Lesley Fair One digit can make a lot of differentise..."
+    },
+    {
+      "id": "54464 at https://www.ftc.gov",
+      "title": "Five cases yield tips to help keep your company Privacy Shield-compliant",
+      "summary": "Five cases yield tips to help keep your company Privacy Shield-compliant lfair September 3, 2019 | 3:32PM Five cases yield tips to help keep your company Privacy Shield-compliant By Lesley Fair For businesses that choose...",
+      "url": "https://www.ftc.gov/business-guidance/blog/2019/09/five-cases-yield-tips-help-keep-your-company-privacy-shield-compliant",
+      "source": "FTC Business Blog",
+      "publishedAt": "Tue, 03 Sep 2019 19:32:58 +0000",
+      "category": "Case & Enforcement",
+      "region": "USA",
+      "title_zh": "五个案例提供了帮助贵公司保持隐私盾合规性的提示",
+      "summary_zh": "五个案例提供有助于保持公司隐私盾合规性的提示lfair 2019年9月3日|下午3:32五个案例提供有助于保持公司隐私盾合规性的提示Lesley Fair对于选择...的企业"
     }
   ]
 }
