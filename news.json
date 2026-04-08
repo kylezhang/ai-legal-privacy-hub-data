@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-04-08T16:48:24.115Z",
+  "lastSyncedAt": "2026-04-08T17:50:11.321Z",
   "items": [
     {
       "id": "https://www.gov.uk/government/publications/uk-national-delegate-support-for-the-advanced-technology-call/ai-hub-itt-guidance",
@@ -445,6 +445,18 @@
       "region": "EU",
       "title_zh": "标准设置",
       "summary_zh": "本页面旨在根据《欧盟人工智能法案》提供易于访问的人工智能安全标准设置概述。 它涵盖了欧盟人工智能标准制定、标准制定过程和问题的更广泛背景和基本原理……"
+    },
+    {
+      "id": "54696 at https://www.ftc.gov",
+      "title": "Will your research take centerstage at PrivacyCon 2021?",
+      "summary": "Will your research take centerstage at PrivacyCon 2021? lfair December 16, 2020 | 10:08AM Will your research take centerstage at PrivacyCon 2021? By Lesley Fair It’s an annual celebration of the innovative, the audacious...",
+      "url": "https://www.ftc.gov/business-guidance/blog/2020/12/will-your-research-take-centerstage-privacycon-2021",
+      "source": "FTC Business Blog",
+      "publishedAt": "Wed, 16 Dec 2020 15:08:33 +0000",
+      "category": "Privacy / Data Protection",
+      "region": "USA",
+      "title_zh": "您的研究会在2021年隐私大会上占据中心位置吗？",
+      "summary_zh": "您的研究会在2021年PrivacyCon上占据中心位置吗？ lfair 2020年12月16日|上午10:08您的研究会在2021年PrivacyCon上占据中心位置吗？ Lesley Fair每年庆祝创新、大胆……"
     }
   ]
 }
