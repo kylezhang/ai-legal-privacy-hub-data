@@ -8,7 +8,8 @@ This repository stores the public `news.json` snapshot used by the main AI Legal
 - The script merges fresh RSS and Tavily-discovered items into `news.json`.
 - Chinese titles and summaries are backfilled during the update run so the main site can serve a more complete bilingual feed.
 - GitHub Actions runs the updater on a schedule and commits `news.json` when it changes.
-- The current test schedule is every 5 minutes, which is the shortest interval GitHub Actions supports for cron-based workflows.
+- The current production schedule runs every 6 hours at minute `17` via GitHub Actions cron.
+- For short testing, GitHub Actions supports a minimum cron interval of 5 minutes.
 
 ## Local usage
 
