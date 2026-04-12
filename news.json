@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-04-12T03:46:26.232Z",
+  "lastSyncedAt": "2026-04-12T07:44:40.776Z",
   "items": [
     {
       "id": "f5cc63d8-6ae4-4fde-8691-939e7ff7b655",
@@ -433,6 +433,18 @@
       "region": "EU",
       "title_zh": "《人工智能法案》的高级摘要",
       "summary_zh": "您需要在十分钟内了解的有关人工智能法案的所有信息...."
+    },
+    {
+      "id": "81160 at https://www.ftc.gov",
+      "title": "Hey, Alexa! What are you doing with my data?",
+      "summary": "Hey, Alexa! What are you doing with my data? lfair June 13, 2023 | 12:49PM Hey, Alexa! What are you doing with my data? By Elisa Jillson What you say in your home, what you do in your home. It doesn’t get more private th...",
+      "url": "https://www.ftc.gov/business-guidance/blog/2023/06/hey-alexa-what-are-you-doing-my-data",
+      "source": "FTC Business Blog",
+      "publishedAt": "Tue, 13 Jun 2023 16:49:41 +0000",
+      "category": "Case & Enforcement",
+      "region": "USA",
+      "title_zh": "嘿， Alexa ！你对我的数据做了什么？",
+      "summary_zh": "嘿， Alexa ！您对我的数据做了什么？ lfair 2023年6月13日|中午12:49嘿， Alexa ！ 你对我的数据做了什么？ 作者： Elisa Jillson您在家里说的话，在家里做的事。 它不会变得更加私密……"
     },
     {
       "id": "81115 at https://www.ftc.gov",
