@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-04-27T04:00:06.275Z",
+  "lastSyncedAt": "2026-04-27T08:40:53.654Z",
   "items": [
+    {
+      "id": "21613e1c-6f71-4bc7-9984-810f7f53006b",
+      "title": "Marking 10 years of the GDPR: the evolution of the European data protection landscape",
+      "summary": "Brussels, 27 April – Today marks the 10th anniversary of the GDPR’s adoption, the first comprehensive data protection framework spanning an entire continent, establishing clear rights for individuals and obligations for ...",
+      "url": "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en",
+      "source": "EDPB",
+      "publishedAt": "Mon, 27 Apr 2026 14:00:00 +0200",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "GDPR 10周年纪念：欧洲数据保护格局的演变",
+      "summary_zh": "布鲁塞尔， 4月27日--今天是《通用数据保护条例》（ GDPR ）通过10周年，这是跨越整个大陆的首个全面数据保护框架，为个人确立了明确的权利和义务……"
+    },
     {
       "id": "9a20c25e-5733-4502-a7bc-73078ac11fa5",
       "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers ",
