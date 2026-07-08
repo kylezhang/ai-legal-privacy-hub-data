@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-07-08T08:43:24.877Z",
+  "lastSyncedAt": "2026-07-08T14:40:07.790Z",
   "items": [
+    {
+      "id": "e74f371e-44b8-4614-a3bb-ff68e56590e9",
+      "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
+      "summary": "Brussels, 8 July– During its latest plenary, the EDPB has adopted guidelines on anonymisation and guidelines on web scraping in the context of generative AI. In addition, the Board has adopted the final version of its gu...",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "source": "EDPB",
+      "publishedAt": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "EDPB揭示了生成式人工智能的匿名化和网络抓取，并采用了区块链指南的最终版本",
+      "summary_zh": "布鲁塞尔， 7月8日--在最近的全体会议上， EDPB通过了关于生成式人工智能背景下的匿名化和网络抓取准则。 此外，董事会已通过其GU的最终版本..."
+    },
     {
       "id": "https://artificialintelligenceact.eu/?p=6148",
       "title": "The Advisory Forum: What Is It And How Does It Work?",
