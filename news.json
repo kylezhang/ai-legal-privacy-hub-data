@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-07-12T19:30:35.897Z",
+  "lastSyncedAt": "2026-07-13T03:59:31.174Z",
   "items": [
     {
       "id": "e74f371e-44b8-4614-a3bb-ff68e56590e9",
@@ -13,6 +13,18 @@
       "region": "EU",
       "title_zh": "EDPB揭示了生成式人工智能的匿名化和网络抓取，并采用了区块链指南的最终版本",
       "summary_zh": "布鲁塞尔， 7月8日--在最近的全体会议上， EDPB通过了关于生成式人工智能背景下的匿名化和网络抓取准则。 此外，董事会已通过其GU的最终版本..."
+    },
+    {
+      "id": "https://artificialintelligenceact.eu/?p=5789",
+      "title": "The Scientific Panel of Independent Experts: What Is It And How Does It Work?",
+      "summary": "The scientific panel of independent experts (the Scientific Panel) is a body established under the EU AI Act to support the enforcement of rules on general-purpose AI (GPAI) models and systems. It sits within the Act’s b...",
+      "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&utm_medium=rss&utm_campaign=scientific-panel",
+      "source": "EU AI Act",
+      "publishedAt": "Tue, 07 Jul 2026 16:53:11 +0000",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "为什么要加入欧盟人工智能科学小组？",
+      "summary_zh": "欧盟委员会发布了一份申请书，要求设立一个由独立专家组成的科学小组。 该小组侧重于通用人工智能（ GPAI ）模型和系统。 其任务包括为欧盟人工智能办公室提供建议..."
     },
     {
       "id": "https://artificialintelligenceact.eu/?p=6148",
@@ -289,18 +301,6 @@
       "region": "EU",
       "title_zh": "业务守则概述",
       "summary_zh": "《业务守则》提供了一个明确的框架，帮助通用人工智能（ GPAI ）模型的开发人员满足《欧盟人工智能法案》的要求。 虽然供应商可以选择遵守本准则，但他们也可以免费演示……"
-    },
-    {
-      "id": "https://artificialintelligenceact.eu/?p=5789",
-      "title": "Why Join the EU AI Scientific Panel?",
-      "summary": "The European Commission has published a call for applications for a scientific panel of independent experts. The panel focuses on general-purpose AI (GPAI) models and systems. Its tasks include advising the EU AI Office ...",
-      "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&utm_medium=rss&utm_campaign=scientific-panel",
-      "source": "EU AI Act",
-      "publishedAt": "Mon, 16 Jun 2025 16:53:11 +0000",
-      "category": "Case & Enforcement",
-      "region": "EU",
-      "title_zh": "为什么要加入欧盟人工智能科学小组？",
-      "summary_zh": "欧盟委员会发布了一份申请书，要求设立一个由独立专家组成的科学小组。 该小组侧重于通用人工智能（ GPAI ）模型和系统。 其任务包括为欧盟人工智能办公室提供建议..."
     },
     {
       "id": "https://artificialintelligenceact.eu/?p=5561",
