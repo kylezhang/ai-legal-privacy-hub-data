@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-07-17T08:27:45.650Z",
+  "lastSyncedAt": "2026-07-17T14:02:38.141Z",
   "items": [
+    {
+      "id": "68f7c665-2a1c-412e-a75f-bdbc3d217920",
+      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
+      "summary": "Dublin, 17 July– At a high-level meeting in Dublin on 16 and 17 July 2026, the European Data Protection Board (EDPB) called for a clear legal basis for the sharing of information among regulators with different competenc...",
+      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
+      "source": "EDPB",
+      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "EDPB 呼吁为跨监管信息共享提供法律依据",
+      "summary_zh": "都柏林，7 月 17 日——在 2026 年 7 月 16 日至 17 日于都柏林举行的高级别会议上，欧洲数据保护委员会 (EDPB) 呼吁为不同职能的监管机构之间的信息共享建立明确的法律基础。"
+    },
     {
       "id": "e74f371e-44b8-4614-a3bb-ff68e56590e9",
       "title": "EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain",
