@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-08-27T22:15:56.924Z",
+  "lastSyncedAt": "2026-08-28T11:23:30.685Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you",
+      "title": "HMRC Privacy Notice - GOV.UK",
+      "summary": "### 2.4 Artificial Intelligence and machine learning HMRC uses Artificial Intelligence (AI) and machine learning techniques where the law allows us to support the department’s strategic objectives, including for the: ass...",
+      "url": "https://www.gov.uk/government/publications/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you/data-protection-act-dpa-information-hm-revenue-and-customs-hold-about-you",
+      "source": "GOV.UK",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "HMRC隐私声明- GOV.UK",
+      "summary_zh": "# # # 2.4人工智能和机器学习HMRC使用人工智能（ AI ）和机器学习技术，法律允许我们支持部门的战略目标，包括："
+    },
+    {
+      "id": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/children-s-code-strategy-progress-update-august-2026/next-steps",
+      "title": "Next steps | ICO",
+      "summary": "We anticipate the government will ask us to produce a code on edtech which will form part of that programme of work. We’ll also consider children as part of our code on AI and automated decision-making. In the meantime, ...",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/children-s-code-strategy-progress-update-august-2026/next-steps",
+      "source": "ICO",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "后续步骤| ICO",
+      "summary_zh": "我们预计政府将要求我们提供有关edtech的代码，该代码将构成该工作计划的一部分。 我们还将将儿童视为我们关于人工智能和自动化决策的代码的一部分。与此同时， ……"
+    },
+    {
+      "id": "https://www.gov.uk/government/publications/privacy-information-members-of-the-public/privacy-information-members-of-the-public",
+      "title": "Privacy information: members of the public - GOV.UK",
+      "summary": "If you want all, or any part of a response to be treated as confidential, please explain your reasons in the relevant section of the consultation response. We may use artificial intelligence (AI) to conduct qualitative a...",
+      "url": "https://www.gov.uk/government/publications/privacy-information-members-of-the-public/privacy-information-members-of-the-public",
+      "source": "GOV.UK",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "隐私信息：公众成员- GOV.UK",
+      "summary_zh": "如果您希望将回复的全部或任何部分视为机密，请在咨询回复的相关部分解释您的原因。 我们可能会使用人工智能（ AI ）进行定性分析……"
+    },
+    {
+      "id": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada/enhancing-trust-artificial-intelligence-through-increased-transparency",
+      "title": "Enhancing trust in artificial intelligence through increased ...",
+      "summary": "On June 4, 2026, the Government launched Canada's new AI strategy, _AI for All_, which identifies protecting Canadians and safeguarding democracy as a central pillar. The strategy highlights that AI will only deliver on ...",
+      "url": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada/enhancing-trust-artificial-intelligence-through-increased-transparency",
+      "source": "ised-isde.canada.ca",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "通过增加……来增强对人工智能的信任",
+      "summary_zh": "2026年6月4日，政府启动了加拿大新的人工智能战略“人人享有人工智能” ，该战略将保护加拿大人和捍卫民主视为核心支柱。 该战略强调，人工智能只能实现..."
+    },
+    {
+      "id": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/progress.html",
+      "title": "Progress on AI in government",
+      "summary": "### Consultations in Toronto and Montreal on the Directive and Algorithmic Impact Assessment ### Consultation with the Office of the Privacy Commissioner of Canada (September 18, 2018) ### Justice AI taskforce session (J...",
+      "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/progress.html",
+      "source": "Government of Canada",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "政府在人工智能方面的进展",
+      "summary_zh": "# # #在多伦多和蒙特利尔就指令和算法影响评估进行磋商# # #与加拿大隐私专员办公室进行磋商（ 2018年9月18日） # # #司法人工智能工作组会议（ J..."
+    },
+    {
+      "id": "https://competition-bureau.canada.ca/how-we-foster-competition/education-and-outreach/publications?wbdisable=",
+      "title": "Guidelines and publications - Competition Bureau Canada",
+      "summary": "| Canadian Regulatory Perspectives on Principles Informing the Development and Use of AI: A Joint article by the four members of the Canadian Digital Regulators Forum | Artificial intelligence | Article | | 2026-05-20 Ma...",
+      "url": "https://competition-bureau.canada.ca/how-we-foster-competition/education-and-outreach/publications?wbdisable=",
+      "source": "competition-bureau.canada.ca",
+      "publishedAt": "2026-08-28T11:23:23.227Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "指南和出版物-加拿大竞争局",
+      "summary_zh": "|加拿大监管机构对人工智能发展和使用原则的看法：加拿大数字监管机构论坛四名成员的联合文章|人工智能|文章| | 2026-05-20 Ma..."
+    },
     {
       "id": "https://www.york.gov.uk/schools-education/school-wellbeing-service-privacy-notice",
       "title": "School Wellbeing Service Privacy Notice – City of York Council",
