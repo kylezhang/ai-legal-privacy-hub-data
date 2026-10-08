@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-10-08T06:03:56.694Z",
+  "lastSyncedAt": "2026-10-08T13:29:09.032Z",
   "items": [
+    {
+      "id": "b7ce37b6-62ea-41f8-a4e6-5d7fb6620d40",
+      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
+      "summary": "Background information Cross-border case Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the da...",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "source": "EDPB",
+      "publishedAt": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "荷兰DPA因非法自动决策和个人资料信息不足而对优步处以824 990 000欧元的罚款",
+      "summary_zh": "背景资料跨境案件法律参考资料：第22条（自动个人决策，包括分析）和第13条（从数据中心收集个人数据时应提供的信息）"
+    },
     {
       "id": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
       "title": "Independent Commission led by NHS doctors sets out blueprint to accelerate safe AI adoption in healthcare - GOV.UK",
