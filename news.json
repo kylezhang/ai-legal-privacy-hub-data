@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-04T06:21:24.676Z",
+  "lastSyncedAt": "2026-11-04T19:45:23.066Z",
   "items": [
+    {
+      "id": "https://www.priv.gc.ca/index_e.ASP",
+      "title": "Office of the Privacy Commissioner of Canada - Office of the Privacy Commissioner of Canada",
+      "summary": "### Canada’s federal, provincial, and territorial privacy commissioners and ombuds call for the responsible use of artificial intelligence in health and health research News release - October 29, 2026 ### Privacy Commiss...",
+      "url": "https://www.priv.gc.ca/index_e.ASP",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-04T19:45:14.678Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "加拿大隐私专员办公室-加拿大隐私专员办公室",
+      "summary_zh": "# # #加拿大联邦、省和地区的隐私专员和监察员呼吁在健康和健康研究中负责任地使用人工智能新闻稿- 2026年10月29日# # #隐私委员会..."
+    },
+    {
+      "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261008",
+      "title": "Remarks by the Privacy Commissioner to the Ontario Bar Association Privacy Law Summit - Office of the Privacy Commissioner of Canada",
+      "summary": "While my Office continues to advocate for modernized Canadian privacy laws, which I will discuss more in a few moments, the 2023 G7 Data Protection and Privacy Authorities Roundtable statement holds true today – existing...",
+      "url": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261008",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-04T19:45:14.678Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "隐私专员在加拿大隐私专员办公室安大略省律师协会隐私法峰会上的讲话",
+      "summary_zh": "虽然我的办公室继续倡导现代化的加拿大隐私法，我稍后将进一步讨论，但2023年七国集团数据保护和隐私当局圆桌会议的声明今天仍然适用–现有的..."
+    },
+    {
+      "id": "https://www.imda.gov.sg/about-imda/research-and-statistics/support-for-industry-sectors/enterprise-digital-transformation/ai",
+      "title": "Artificial Intelligence (AI) | IMDA",
+      "summary": "The IMDA logo represents the government's commitment to SMEs go digital, driving digital solutions, data protection and moreThe IMDA logo represents the government's commitment to SMEs go digital, driving digital solutio...",
+      "url": "https://www.imda.gov.sg/about-imda/research-and-statistics/support-for-industry-sectors/enterprise-digital-transformation/ai",
+      "source": "IMDA",
+      "publishedAt": "2026-11-04T19:45:14.678Z",
+      "category": "Privacy / Data Protection",
+      "region": "Singapore",
+      "title_zh": "人工智能（ AI ） | IMDA",
+      "summary_zh": "IMDA徽标代表政府对中小企业走向数字化、推动数字解决方案、数据保护等的承诺IMDA徽标代表政府对中小企业走向数字化、推动数字解决方案的承诺……"
+    },
+    {
+      "id": "https://www.oaic.gov.au/news/blog/privacy-impact-assessments",
+      "title": "Privacy Impact Assessments | OAIC",
+      "summary": "The OAIC recently made inquiries with a number of Australian Government agencies, including a regulatory agency with respect to a research study, and a portfolio department relating to AI deployment in the workplace. The...",
+      "url": "https://www.oaic.gov.au/news/blog/privacy-impact-assessments",
+      "source": "OAIC",
+      "publishedAt": "2026-11-04T19:45:14.678Z",
+      "category": "Privacy / Data Protection",
+      "region": "Australia",
+      "title_zh": "隐私影响评估| OAIC",
+      "summary_zh": "OAIC最近与一些澳大利亚政府机构进行了调查，包括一项研究的监管机构，以及一个与工作场所人工智能部署有关的投资组合部门。"
+    },
     {
       "id": "https://www.gov.uk/government/publications/advisory-ai-growth-lab-legal-services/legal-services-advisory-ai-growth-lab-privacy-notice",
       "title": "Legal services advisory AI Growth Lab: privacy notice - GOV.UK",
