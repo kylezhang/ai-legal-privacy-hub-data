@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-05T06:45:39.247Z",
+  "lastSyncedAt": "2026-11-05T19:56:49.064Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/dwp-procurement-security-policies-and-standards/artificial-intelligence-security-policy",
+      "title": "Artificial Intelligence Security Policy - GOV.UK",
+      "summary": "View cookies Department for Work & Pensions Guidance # Artificial Intelligence Security Policy Updated 7 October 2026 © Crown copyright 2026 This publication is licensed under the terms of the Open Government Licence v3....",
+      "url": "https://www.gov.uk/government/publications/dwp-procurement-security-policies-and-standards/artificial-intelligence-security-policy",
+      "source": "GOV.UK",
+      "publishedAt": "2026-11-05T19:56:42.422Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "人工智能安全政策- GOV.UK",
+      "summary_zh": "查看COOKIES工作和养老金部指南#人工智能安全政策更新于2026年10月7日© Crown copyright 2026本出版物根据开放政府许可v3的条款获得许可...."
+    },
+    {
+      "id": "https://www.unesco.org/ethics-ai/en/articles/beyond-black-box-reducing-governance-blind-spots-through-ai-literacy-civil-servants",
+      "title": "Beyond the Black Box: Reducing Governance Blind Spots Through AI Literacy for Civil Servants | Global AI Ethics and Governance Observatory",
+      "summary": "News We Can Re-imagine AI Ethics Through the Yoruba Concept of Omoluabi 6 August 2026 From Readiness to Action: A Phased Roadmap for Developing AI Regulation and Governance in Georgia Idea From Readiness to Action: A Pha...",
+      "url": "https://www.unesco.org/ethics-ai/en/articles/beyond-black-box-reducing-governance-blind-spots-through-ai-literacy-civil-servants",
+      "source": "UNESCO",
+      "publishedAt": "2026-11-05T19:56:42.422Z",
+      "category": "Case & Enforcement",
+      "region": "Global",
+      "title_zh": "超越黑匣子：通过公务员人工智能扫盲减少治理盲点|全球人工智能道德与治理观察站",
+      "summary_zh": "新闻我们可以通过Yoruba的Omoluabi概念重新构想人工智能伦理2026年8月6日从准备到行动：在格鲁吉亚发展人工智能监管和治理的分阶段路线图从准备到行动：从准备到行动：一个..."
+    },
+    {
+      "id": "https://www.unesco.org/ethics-ai/en/articles/defining-ai-supervision-readiness-across-diverse-governance-ecosystems",
+      "title": "Defining AI Supervision Readiness across Diverse Governance Ecosystems | Global AI Ethics and Governance Observatory",
+      "summary": "News Beyond the Black Box: Reducing Governance Blind Spots Through AI Literacy for Civil Servants 3 July 2026 From Readiness to Action: A Phased Roadmap for Developing AI Regulation and Governance in Georgia Idea From Re...",
+      "url": "https://www.unesco.org/ethics-ai/en/articles/defining-ai-supervision-readiness-across-diverse-governance-ecosystems",
+      "source": "UNESCO",
+      "publishedAt": "2026-11-05T19:56:42.422Z",
+      "category": "Case & Enforcement",
+      "region": "Global",
+      "title_zh": "定义跨不同治理生态系统的人工智能监管准备|全球人工智能道德与治理观察站",
+      "summary_zh": "黑匣子之外的新闻：通过公务员的人工智能扫盲来减少治理盲点2026年7月3日从准备到行动：格鲁吉亚发展人工智能监管和治理的分阶段路线图"
+    },
     {
       "id": "https://www.priv.gc.ca/index_e.ASP",
       "title": "Office of the Privacy Commissioner of Canada - Office of the Privacy Commissioner of Canada",
