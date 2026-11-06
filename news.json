@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-06T06:45:27.712Z",
+  "lastSyncedAt": "2026-11-06T19:24:18.718Z",
   "items": [
+    {
+      "id": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/whale-ai",
+      "title": "Whale AI | IMDA",
+      "summary": "The IMDA logo represents the government's commitment to SMEs go digital, driving digital solutions, data protection and moreThe IMDA logo represents the government's commitment to SMEs go digital, driving digital solutio...",
+      "url": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/whale-ai",
+      "source": "IMDA",
+      "publishedAt": "2026-11-06T19:24:11.902Z",
+      "category": "Privacy / Data Protection",
+      "region": "Singapore",
+      "title_zh": "鲸鱼AI | IMDA",
+      "summary_zh": "IMDA徽标代表政府对中小企业走向数字化、推动数字解决方案、数据保护等的承诺IMDA徽标代表政府对中小企业走向数字化、推动数字解决方案的承诺……"
+    },
     {
       "id": "https://www.gov.uk/government/publications/dwp-procurement-security-policies-and-standards/artificial-intelligence-security-policy",
       "title": "Artificial Intelligence Security Policy - GOV.UK",
