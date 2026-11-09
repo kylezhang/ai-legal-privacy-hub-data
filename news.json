@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-09T06:27:25.460Z",
+  "lastSyncedAt": "2026-11-09T22:21:20.797Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/police-use-of-artificial-intelligence-ai-factsheet/police-use-of-artificial-intelligence-ai-factsheet-accessible",
+      "title": "Police use of artificial intelligence (AI): factsheet - GOV.UK",
+      "summary": "Home Office Guidance # Police use of artificial intelligence (AI): factsheet Updated 5 November 2026 © Crown copyright 2026 This publication is licensed under the terms of the Open Government Licence v3.0 except where ot...",
+      "url": "https://www.gov.uk/government/publications/police-use-of-artificial-intelligence-ai-factsheet/police-use-of-artificial-intelligence-ai-factsheet-accessible",
+      "source": "GOV.UK",
+      "publishedAt": "2026-11-09T22:21:13.463Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "警方使用人工智能（ AI ） ：概况介绍- GOV.UK",
+      "summary_zh": "内政部指南#警方使用人工智能（ AI ） ：概况介绍更新于2026年11月5日© Crown copyright 2026本出版物根据开放政府许可证v3.0的条款获得许可，除非..."
+    },
+    {
+      "id": "https://www.canada.ca/en/shared-services/corporate/about-us/transparency/access-information-privacy/publications/annual-report-parliament-administration-privacy-act-2025-26.html",
+      "title": "Annual Report to Parliament on the Administration of the Privacy Act – 2025-2026 - Canada.ca",
+      "summary": "On April 1, 2025, the SMG Privacy Assessment function was consolidated under the ATIP Division, unifying internal and enterprise privacy efforts. This integration established a centralized hub for SSC, simplifying and st...",
+      "url": "https://www.canada.ca/en/shared-services/corporate/about-us/transparency/access-information-privacy/publications/annual-report-parliament-administration-privacy-act-2025-26.html",
+      "source": "Government of Canada",
+      "publishedAt": "2026-11-09T22:21:13.463Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "提交议会的关于《隐私法》实施情况的年度报告– 2025-2026年-加拿大.ca",
+      "summary_zh": "2025年4月1日， SMG隐私评估职能整合到ATIP部门，统一了内部和企业隐私工作。 这种集成为SSC建立了一个集中的枢纽，简化和..."
+    },
+    {
+      "id": "https://www.oaic.gov.au/__data/assets/pdf_file/0030/269670/Western-Australia-AI-Hub.pdf",
+      "title": "Submission to the Office of the Australian Information ...",
+      "summary": "Agentic AI (January 2026, updated May 2026) recommends unique agent identities tied to supervising users, and the Five Eyes Careful Adoption of Agentic AI Services advisory (1 May 2026) recommends cryptographically ancho...",
+      "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0030/269670/Western-Australia-AI-Hub.pdf",
+      "source": "OAIC",
+      "publishedAt": "2026-11-09T22:21:13.463Z",
+      "category": "Privacy / Data Protection",
+      "region": "Australia",
+      "title_zh": "提交给澳大利亚信息办公室...",
+      "summary_zh": "Agentic AI （ 2026年1月， 2026年5月更新）推荐与监督用户相关的独特代理身份，而Five Eyes Careful Adoption of Agentic AI Services公告（ 2026年5月1日）推荐使用加密方法..."
+    },
     {
       "id": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/whale-ai",
       "title": "Whale AI | IMDA",
