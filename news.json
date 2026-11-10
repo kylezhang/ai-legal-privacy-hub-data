@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-10T07:17:12.144Z",
+  "lastSyncedAt": "2026-11-10T19:43:28.777Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/agentic-ai-and-consumers/agentic-ai-and-consumers",
+      "title": "Agentic AI and consumers - GOV.UK",
+      "summary": "Agentic systems can also rely on access to personal data and delegated authority to act on a user’s behalf, increasing the importance of strong safeguards around lawful processing, consent, security and authentication. T...",
+      "url": "https://www.gov.uk/government/publications/agentic-ai-and-consumers/agentic-ai-and-consumers",
+      "source": "GOV.UK",
+      "publishedAt": "2026-11-10T19:43:21.686Z",
+      "category": "Case & Enforcement",
+      "region": "UK",
+      "title_zh": "Agentic AI和消费者- GOV.UK",
+      "summary_zh": "代理系统还可以依靠对个人数据的访问和代表用户行事的授权，从而增加了围绕合法处理、同意、安全和身份验证的强有力保障措施的重要性。T..."
+    },
+    {
+      "id": "https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/use-of-artificial-intelligence-ai-in-pension-schemes",
+      "title": "Use of artificial intelligence (AI) in pension schemes",
+      "summary": "There are many obligations outside of those relating to automated decision-making which apply when using AI systems that process personal data. You should seek appropriate legal advice where needed and refer to the ICO’s...",
+      "url": "https://www.thepensionsregulator.gov.uk/en/document-library/scheme-management-detailed-guidance/governing-body-detailed-guidance/use-of-artificial-intelligence-ai-in-pension-schemes",
+      "source": "thepensionsregulator.gov.uk",
+      "publishedAt": "2026-11-10T19:43:21.686Z",
+      "category": "Case & Enforcement",
+      "region": "UK",
+      "title_zh": "在养老金计划中使用人工智能（ AI ）",
+      "summary_zh": "在使用处理个人数据的人工智能系统时，除了与自动化决策有关的义务之外，还有许多义务。 您应该在需要时寻求适当的法律建议，并参考ICO的..."
+    },
+    {
+      "id": "https://www.oaic.gov.au/__data/assets/pdf_file/0035/269648/Insurance-Council-of-Australia.pdf",
+      "title": "Automated Decision-Making Transparency Obligation ( ...",
+      "summary": "information. These objectives are consistent with the foundations of Australia’s Privacy Framework. The Insurance Council understands that the feedback collected via this process will inform the Office of the Australian ...",
+      "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0035/269648/Insurance-Council-of-Australia.pdf",
+      "source": "OAIC",
+      "publishedAt": "2026-11-10T19:43:21.686Z",
+      "category": "Case & Enforcement",
+      "region": "Australia",
+      "title_zh": "自动化决策透明度义务（...",
+      "summary_zh": "这些目标与澳大利亚隐私框架的基础是一致的。 保险委员会了解，通过此流程收集的反馈将告知澳大利亚......"
+    },
+    {
+      "id": "https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/digital-health-annual-reports/annual-report-of-the-australian-information-commissioners-activities-in-relation-to-digital-health-202526",
+      "title": "Annual report of the Australian Information Commissioner’s activities in relation to digital health 2025–26 | OAIC",
+      "summary": "The OAIC made inquiries to determine if the Privacy Commissioner should open an investigation under the Privacy Act. The inquiries focused on the form and content of the patient data I-MED provided to Annalise. ai, the p...",
+      "url": "https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/digital-health-annual-reports/annual-report-of-the-australian-information-commissioners-activities-in-relation-to-digital-health-202526",
+      "source": "OAIC",
+      "publishedAt": "2026-11-10T19:43:21.686Z",
+      "category": "Case & Enforcement",
+      "region": "Australia",
+      "title_zh": "澳大利亚信息专员关于2025–26年数字健康活动的年度报告| OAIC",
+      "summary_zh": "OAIC进行了调查，以确定隐私专员是否应根据《隐私法》展开调查。 询问的重点是提供给Annalise的I-MED患者数据的形式和内容。ai, the p..."
+    },
     {
       "id": "https://www.gov.uk/government/publications/police-use-of-artificial-intelligence-ai-factsheet/police-use-of-artificial-intelligence-ai-factsheet-accessible",
       "title": "Police use of artificial intelligence (AI): factsheet - GOV.UK",
