@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-11T06:19:46.429Z",
+  "lastSyncedAt": "2026-11-11T19:35:08.370Z",
   "items": [
+    {
+      "id": "https://www.priv.gc.ca/en/about-the-opc/opc-operational-reports/reporting-of-opc-spending/drr_index/2025-2026/drr-2025-26",
+      "title": "Office of the Privacy Commissioner of Canada’s 2025–26 Departmental Results Report - Office of the Privacy Commissioner of Canada",
+      "summary": "Undertook investigations with important privacy implications for Canadians, including into xAI, and expanded its current investigation into X Corp. It also concluded high‑impact investigations into 23andMe, TikTok, Googl...",
+      "url": "https://www.priv.gc.ca/en/about-the-opc/opc-operational-reports/reporting-of-opc-spending/drr_index/2025-2026/drr-2025-26",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-11T19:34:59.311Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "加拿大隐私专员办公室2025–26年度部门业绩报告 - 加拿大隐私专员办公室",
+      "summary_zh": "开展了对加拿大人具有重要隐私影响的调查，包括对xAI的调查，并扩大了其目前对X Corp.的调查。此外，还完成了对23andMe、TikTok、Google等的高影响调查……"
+    },
+    {
+      "id": "https://www.imda.gov.sg/assets/ae20c340-8147-4999-b9aa-e88df830f314.pdf",
+      "title": "Using Personal AI Agents Safely and Securely",
+      "summary": "“Muse from Meta” on iOS (v14.1) and Android (v14.0) in Singapore. They may change, so refer to Meta’s Muse Help Centre for the latest. Other AI agents may have similar controls. These steps are illustrative and non-exhau...",
+      "url": "https://www.imda.gov.sg/assets/ae20c340-8147-4999-b9aa-e88df830f314.pdf",
+      "source": "IMDA",
+      "publishedAt": "2026-11-11T19:34:59.311Z",
+      "category": "Privacy / Data Protection",
+      "region": "Singapore",
+      "title_zh": "安全可靠地使用个人人工智能代理",
+      "summary_zh": "新加坡的 iOS（v14.1）和 Android（v14.0）上的“Meta 的 Muse”。这些信息可能会发生变化，因此请参阅 Meta 的 Muse 帮助中心，了解最新信息。其他 AI 代理可能具有类似的控制功能。这些步骤仅供说明，并非详尽无遗……"
+    },
     {
       "id": "https://www.gov.uk/government/publications/agentic-ai-and-consumers/agentic-ai-and-consumers",
       "title": "Agentic AI and consumers - GOV.UK",
