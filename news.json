@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-18T07:27:52.014Z",
+  "lastSyncedAt": "2026-11-18T20:30:44.806Z",
   "items": [
+    {
+      "id": "https://cy.ico.org.uk/for-organisations/law-enforcement",
+      "title": "Law Enforcement | ICO",
+      "summary": "Guide to what you need to know to comply with Part 3 of the Data Protection Act 2018 (DPA 2018). It explains the requirements for controllers and processors, and also covers the additional rules for sensitive processing ...",
+      "url": "https://cy.ico.org.uk/for-organisations/law-enforcement",
+      "source": "cy.ico.org.uk",
+      "publishedAt": "2026-11-18T20:30:37.799Z",
+      "category": "Case & Enforcement",
+      "region": "UK",
+      "title_zh": "执法 | ICO",
+      "summary_zh": "关于遵守《2018年数据保护法》（DPA 2018）第3部分所需了解事项的指南。本指南解释了对控制者和处理者的要求，还涵盖了敏感处理的附加规则……"
+    },
+    {
+      "id": "https://www.minister.industry.gov.au/t-ayres/media/new-australian-ai-safety-and-security-protections",
+      "title": "New Australian AI safety and security protections | Senator the Hon Tim Ayres | Ministers for the Department of Industry, Science and Resources",
+      "summary": "We are announcing today that as part of the Albanese Government’s AI in Australia’s Interestsagenda, strong mandatory safety and security protections will be legislated through the AI Standards and apply to all frontier ...",
+      "url": "https://www.minister.industry.gov.au/t-ayres/media/new-australian-ai-safety-and-security-protections",
+      "source": "minister.industry.gov.au",
+      "publishedAt": "2026-11-18T20:30:37.799Z",
+      "category": "Compliance Guidance",
+      "region": "Australia",
+      "title_zh": "澳大利亚新的人工智能安全和安保措施 | 参议员Tim Ayres阁下 | 工业、科学和资源部部长",
+      "summary_zh": "我们今天宣布，作为阿尔巴尼斯政府“人工智能服务澳大利亚利益”议程的一部分，将通过《人工智能标准》立法实施强有力的强制性安全和安保保护措施，并适用于所有前沿……"
+    },
+    {
+      "id": "https://www.minister.industry.gov.au/t-ayres/media/strengthening-australia-against-ai-driven-cyber-incidents",
+      "title": "Strengthening Australia against AI-driven cyber incidents | Senator the Hon Tim Ayres | Ministers for the Department of Industry, Science and Resources",
+      "summary": "1. Provide safety for Australians and keep their data secure 2. Keep our national security data protected in our national interest. 3. Ensure AI companies have a social license to operate The Rapid Review – undertaken by...",
+      "url": "https://www.minister.industry.gov.au/t-ayres/media/strengthening-australia-against-ai-driven-cyber-incidents",
+      "source": "minister.industry.gov.au",
+      "publishedAt": "2026-11-18T20:30:37.799Z",
+      "category": "Policy / Regulation",
+      "region": "Australia",
+      "title_zh": "加强澳大利亚应对人工智能驱动的网络事件的能力 | 参议员蒂姆·艾尔斯阁下 | 工业、科学和资源部部长",
+      "summary_zh": "1. 为澳大利亚人提供安全保障，并确保其数据安全。2. 出于国家利益，保护我们的国家安全数据。3. 确保人工智能公司具备运营的社会许可。快速审查——由……开展。"
+    },
+    {
+      "id": "https://oecd.ai/en/dashboards/national/sweden",
+      "title": "National AI Policy Initiatives - OECD.AI",
+      "summary": "Organisations developing advanced AI systems can participate by submitting a report. By sharing information, they will facilitate transparency and comparability of risk mitigation measures. OECD.AI Index The OECD.AI Inde...",
+      "url": "https://oecd.ai/en/dashboards/national/sweden",
+      "source": "OECD AI",
+      "publishedAt": "2026-11-18T20:30:37.799Z",
+      "category": "Privacy / Data Protection",
+      "region": "Global",
+      "title_zh": "国家人工智能政策倡议 - OECD.AI",
+      "summary_zh": "开发先进人工智能系统的组织可以通过提交报告来参与。通过共享信息，它们将促进风险缓解措施的透明度和可比性。OECD.AI 指数 OECD.AI 指数……"
+    },
     {
       "id": "https://www.canada.ca/en/financial-consumer-agency/services/banking/artificial-intelligence.html",
       "title": "Artificial intelligence in banking - Canada.ca",
