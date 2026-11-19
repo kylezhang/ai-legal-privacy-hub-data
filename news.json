@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-19T07:25:13.384Z",
+  "lastSyncedAt": "2026-11-19T20:37:00.685Z",
   "items": [
+    {
+      "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261118",
+      "title": "Remarks by the Privacy Commissioner of Canada to the Global Privacy Assembly’s 48th Annual Conference with the IAPP Europe Congress - Office of the Privacy Commissioner of Canada",
+      "summary": "- One resolution called on organizations to consider the privacy risks when designing or using agentic AI systems that process personal data, particularly those arising from autonomous actions; - Children’s privacy was a...",
+      "url": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261118",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-19T20:36:54.887Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "加拿大隐私专员在全球隐私大会第48届年会暨IAPP欧洲大会上的致辞——加拿大隐私专员办公室",
+      "summary_zh": "- 一项决议呼吁各组织在设计或使用处理个人数据的自主型人工智能系统时考虑隐私风险，特别是因自主行动而产生的隐私风险； - 儿童隐私是一个……"
+    },
     {
       "id": "https://cy.ico.org.uk/for-organisations/law-enforcement",
       "title": "Law Enforcement | ICO",
