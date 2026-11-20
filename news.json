@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-20T07:15:14.938Z",
+  "lastSyncedAt": "2026-11-20T20:18:56.620Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care/ai-in-social-care",
+      "title": "AI in social care - GOV.UK",
+      "summary": "The Information Commissioner’s Office (ICO) has published guidance on AI and data protection. Algorithmic Transparency Recording Standard (ATRS) from Government Digital Service helps public sector organisations to publis...",
+      "url": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care/ai-in-social-care",
+      "source": "GOV.UK",
+      "publishedAt": "2026-11-20T20:18:49.120Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "社会关怀中的人工智能 - GOV.UK",
+      "summary_zh": "信息专员办公室（ICO）发布了关于人工智能和数据保护的指南。政府数字服务局的《算法透明度记录标准》（ATRS）帮助公共部门组织发布……"
+    },
+    {
+      "id": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/cyber-security-guidance-policy/government-canada-artificial-intelligence-security-risk-management-framework.html",
+      "title": "Government of Canada Artificial Intelligence Security Risk Management Framework - Canada.ca",
+      "summary": "1. Algorithmic impact assessments - Determine the potential impacts and risks that AI systems may pose when making or supporting administrative decisions, such as fairness, transparency and legal compliance. 2. Privacy i...",
+      "url": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/cyber-security-guidance-policy/government-canada-artificial-intelligence-security-risk-management-framework.html",
+      "source": "Government of Canada",
+      "publishedAt": "2026-11-20T20:18:49.120Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "加拿大政府人工智能安全风险管理框架 - Canada.ca",
+      "summary_zh": "1. 算法影响评估 - 确定人工智能系统在做出或支持行政决策时可能带来的潜在影响和风险，例如公平性、透明度和法律合规性。2. 隐私……"
+    },
+    {
+      "id": "https://oecd.ai/en/dashboards/policy-initiatives/draft-act-on-artificial-intelligence-and-european-data-regulation",
+      "title": "Draft Act on Artificial Intelligence and European Data Regulation - OECD.AI",
+      "summary": "Expected Outcomes: Institutional: Establishment of a fully functional Office of Digital Integrity by 2026. Legal: Harmonisation of Slovak law with EU standards, removing legal barriers for AI developers. Economic: Increa...",
+      "url": "https://oecd.ai/en/dashboards/policy-initiatives/draft-act-on-artificial-intelligence-and-european-data-regulation",
+      "source": "OECD AI",
+      "publishedAt": "2026-11-20T20:18:49.120Z",
+      "category": "Case & Enforcement",
+      "region": "Global",
+      "title_zh": "《人工智能法案》草案和《欧洲数据条例》—— OECD.AI",
+      "summary_zh": "预期成果：制度方面：到2026年建立一个功能完备的数字诚信办公室。法律：使斯洛伐克法律与欧盟标准相统一，消除人工智能开发者的法律障碍。经济：提高……"
+    },
+    {
+      "id": "https://www.unesco.org/en/articles/unesco-brazilian-government-and-itu-partner-launch-green-ai-climate-institute",
+      "title": "UNESCO, Brazilian Government and ITU partner to launch green AI",
+      "summary": "The initiative combines regulatory leadership, global technical standards and human-rights-based ethical governance into a shared operational model: ### From COP30 announcement to operational delivery The foundational mi...",
+      "url": "https://www.unesco.org/en/articles/unesco-brazilian-government-and-itu-partner-launch-green-ai-climate-institute",
+      "source": "UNESCO",
+      "publishedAt": "2026-11-20T20:18:49.120Z",
+      "category": "Policy / Regulation",
+      "region": "Global",
+      "title_zh": "教科文组织、巴西政府和国际电联合作推出绿色人工智能",
+      "summary_zh": "该倡议将监管领导力、全球技术标准和基于人权的伦理治理相结合，形成一个共同的运营模式： ### 从COP30公告到运营落地 基本使命……"
+    },
     {
       "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261118",
       "title": "Remarks by the Privacy Commissioner of Canada to the Global Privacy Assembly’s 48th Annual Conference with the IAPP Europe Congress - Office of the Privacy Commissioner of Canada",
