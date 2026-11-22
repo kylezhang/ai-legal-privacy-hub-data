@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-22T06:47:15.462Z",
+  "lastSyncedAt": "2026-11-22T19:40:13.277Z",
   "items": [
+    {
+      "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261015",
+      "title": "Remarks by the Privacy Commissioner to the CAN-Tech Law Conference - Office of the Privacy Commissioner of Canada",
+      "summary": "I expect that the results of these investigations, which we announced in May and June, will help to inform privacy and policy direction with respect to AI and help individuals and organizations to use and deploy these te...",
+      "url": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261015",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-22T19:40:07.324Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "隐私专员在CAN-Tech法律会议上的发言——加拿大隐私专员办公室",
+      "summary_zh": "我预计，我们在5月和6月宣布的这些调查结果将有助于为人工智能方面的隐私和政策方向提供信息，并帮助个人和组织使用和部署这些技术……"
+    },
+    {
+      "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261015?wbdisable=true",
+      "title": "Remarks by the Privacy Commissioner to the CAN-Tech Law Conference - Office of the Privacy Commissioner of Canada",
+      "summary": "I expect that the results of these investigations, which we announced in May and June, will help to inform privacy and policy direction with respect to AI and help individuals and organizations to use and deploy these te...",
+      "url": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261015?wbdisable=true",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-22T19:40:07.324Z",
+      "category": "Case & Enforcement",
+      "region": "Canada",
+      "title_zh": "隐私专员在CAN-Tech法律会议上的发言——加拿大隐私专员办公室",
+      "summary_zh": "我预计，我们在5月和6月宣布的这些调查结果将有助于为人工智能方面的隐私和政策方向提供信息，并帮助个人和组织使用和部署这些技术……"
+    },
     {
       "id": "https://www.gov.uk/government/publications/artificial-intelligence-ai-in-social-care/ai-in-social-care",
       "title": "AI in social care - GOV.UK",
