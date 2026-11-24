@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-23T07:37:43.485Z",
+  "lastSyncedAt": "2026-11-23T23:53:21.238Z",
   "items": [
+    {
+      "id": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/reports-publications/2025-2026-annual-privacy-act.html",
+      "title": "Health Canada annual report on the Privacy Act: 2025-2026 - Canada.ca",
+      "summary": "Throughout 2025-2026, the Privacy Management Division supported this commitment by providing advice to programs on the collection, use, and disclosure of personal information, and by assessing privacy risks for new initi...",
+      "url": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/reports-publications/2025-2026-annual-privacy-act.html",
+      "source": "Government of Canada",
+      "publishedAt": "2026-11-23T23:53:16.571Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "加拿大卫生部《隐私法》年度报告：2025-2026 - Canada.ca",
+      "summary_zh": "在整个2025-2026年度，隐私管理司通过就个人信息的收集、使用和披露向各项目提供建议，并通过评估新举措的隐私风险，为这一承诺提供了支持……"
+    },
+    {
+      "id": "https://www.esafety.gov.au/about-us/corporate-documents/ai-transparency-statement",
+      "title": "Artificial intelligence (AI) transparency statement | eSafety Commissioner",
+      "summary": "- eSafety has an AI Accountable Official to oversee implementation of the Australian Government Policy for the responsible use of AI in government and ensure appropriate governance, compliance and assurance arrangements ...",
+      "url": "https://www.esafety.gov.au/about-us/corporate-documents/ai-transparency-statement",
+      "source": "eSafety Commissioner",
+      "publishedAt": "2026-11-23T23:53:16.571Z",
+      "category": "Case & Enforcement",
+      "region": "Australia",
+      "title_zh": "人工智能（AI）透明度声明 | 网络安全专员",
+      "summary_zh": "- eSafety设有人工智能问责官员，负责监督《澳大利亚政府负责任使用人工智能政策》的实施，并确保采取适当的治理、合规和保证措施……"
+    },
     {
       "id": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261015",
       "title": "Remarks by the Privacy Commissioner to the CAN-Tech Law Conference - Office of the Privacy Commissioner of Canada",
@@ -275,6 +299,18 @@
       "region": "Singapore",
       "title_zh": "安全可靠地使用个人人工智能代理",
       "summary_zh": "新加坡的 iOS（v14.1）和 Android（v14.0）上的“Meta 的 Muse”。这些信息可能会发生变化，因此请参阅 Meta 的 Muse 帮助中心，了解最新信息。其他 AI 代理可能具有类似的控制功能。这些步骤仅供说明，并非详尽无遗……"
+    },
+    {
+      "id": "1165701c-a7ae-4619-8cb4-f88f5bad6af6",
+      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+      "summary": "Brussels, 11 November – During its latest plenary, the EDPB has adopted a statement on the first review of the functioning of the adequacy decision of the Republic of Korea and the final version of the recommendations on...",
+      "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+      "source": "EDPB",
+      "publishedAt": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "category": "Case & Enforcement",
+      "region": "EU",
+      "title_zh": "EDPB通过了关于审查大韩民国适足性、处理者BCR建议的声明，并选定了2027年协调执法行动的主题",
+      "summary_zh": "布鲁塞尔，11月11日——在最近一次全体会议上，EDPB通过了一项声明，内容涉及对大韩民国适足性决定运作情况的首次审查，以及关于……的建议的最终版本。"
     },
     {
       "id": "https://www.gov.uk/government/publications/agentic-ai-and-consumers/agentic-ai-and-consumers",
