@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-24T09:53:48.902Z",
+  "lastSyncedAt": "2026-11-24T22:26:21.726Z",
   "items": [
+    {
+      "id": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/developers-creating-agentic-ai-services-for-consumers-reminded-to-meet-their-data-protection-responsibilities",
+      "title": "Developers creating agentic AI services for consumers reminded to meet their data protection responsibilities | ICO",
+      "summary": "Our call for evidence, which closed last week, will inform guidance due to be published in spring 2027, giving organisations greater regulatory certainty. We are also researching public views and engaging with technology...",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/developers-creating-agentic-ai-services-for-consumers-reminded-to-meet-their-data-protection-responsibilities",
+      "source": "ICO",
+      "publishedAt": "2026-11-24T22:26:15.409Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "提醒为消费者创建自主式人工智能服务的开发人员履行其数据保护责任 | ICO",
+      "summary_zh": "我们的征集证据活动已于上周结束，其结果将为将于2027年春季发布的指南提供参考，从而为各组织提供更大的监管确定性。我们还在研究公众的观点，并与技术……"
+    },
+    {
+      "id": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119",
+      "title": "News release: Privacy Commissioner of Canada advances privacy and data protection priorities at the 48th Global Privacy Assembly Annual Conference - Office of the Privacy Commissioner of Canada",
+      "summary": "Commissioner Dufresne was the authoring sponsor of a resolution on privacy-protective agentic AI, which was adopted by members during the Closed Session. The resolution addresses emerging challenges and opportunities pre...",
+      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119",
+      "source": "OPC Canada",
+      "publishedAt": "2026-11-24T22:26:15.409Z",
+      "category": "Privacy / Data Protection",
+      "region": "Canada",
+      "title_zh": "新闻稿：加拿大隐私专员在第48届全球隐私大会年会上推进隐私和数据保护优先事项 - 加拿大隐私专员办公室",
+      "summary_zh": "Dufresne专员是关于保护隐私的自主人工智能决议的起草提案人，该决议在闭门会议期间获得成员通过。该决议针对新出现的挑战和机遇……"
+    },
     {
       "id": "https://www.canada.ca/en/health-canada/corporate/about-health-canada/reports-publications/2025-2026-annual-privacy-act.html",
       "title": "Health Canada annual report on the Privacy Act: 2025-2026 - Canada.ca",
