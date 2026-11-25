@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-25T08:33:26.052Z",
+  "lastSyncedAt": "2026-11-25T21:41:36.388Z",
   "items": [
+    {
+      "id": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/elgo-ai",
+      "title": "Elgo AI | IMDA",
+      "summary": "The IMDA logo represents the government's commitment to SMEs go digital, driving digital solutions, data protection and moreThe IMDA logo represents the government's commitment to SMEs go digital, driving digital solutio...",
+      "url": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/elgo-ai",
+      "source": "IMDA",
+      "publishedAt": "2026-11-25T21:41:30.805Z",
+      "category": "Privacy / Data Protection",
+      "region": "Singapore",
+      "summary_zh": "IMDA标志代表着政府对中小企业数字化转型的承诺，推动数字解决方案、数据保护等工作。IMDA标志代表着政府对中小企业数字化转型的承诺，推动数字解决方案……"
+    },
     {
       "id": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/developers-creating-agentic-ai-services-for-consumers-reminded-to-meet-their-data-protection-responsibilities",
       "title": "Developers creating agentic AI services for consumers reminded to meet their data protection responsibilities | ICO",
