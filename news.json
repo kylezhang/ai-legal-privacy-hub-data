@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-26T08:16:20.783Z",
+  "lastSyncedAt": "2026-11-26T21:30:59.729Z",
   "items": [
+    {
+      "id": "https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-digital-and-technologies",
+      "title": "AI Adoption Plan: Digital and Technologies - GOV.UK",
+      "summary": "is compounded by uncertainty about how existing rules - including on data protection, consumer rights, intellectual property and sector-specific compliance - should be applied to rapidly evolving AI tools and use cases. ...",
+      "url": "https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-digital-and-technologies",
+      "source": "GOV.UK",
+      "publishedAt": "2026-11-26T21:30:54.412Z",
+      "category": "Privacy / Data Protection",
+      "region": "UK",
+      "title_zh": "人工智能采用计划：数字与技术 - GOV.UK",
+      "summary_zh": "由于不确定如何将现有规则（包括有关数据保护、消费者权利、知识产权和特定行业合规性的规则）应用于快速发展的人工智能工具和用例，这种情况变得更加复杂。……"
+    },
+    {
+      "id": "https://www.imda.gov.sg/resources/blog/blog-articles/imda-and-scale-advance-ai-evaluation-with-new-legal-reasoning-benchmark",
+      "title": "IMDA and Scale Advance AI Evaluation with New Legal Reasoning | IMDA",
+      "summary": "Our efforts to shape international rules and norms in the digital domain Our efforts to build Singapore as a trusted Data Hub Learn more about IMDA’s career opportunities and join us as Architects of Singapore’s Digital ...",
+      "url": "https://www.imda.gov.sg/resources/blog/blog-articles/imda-and-scale-advance-ai-evaluation-with-new-legal-reasoning-benchmark",
+      "source": "IMDA",
+      "publishedAt": "2026-11-26T21:30:54.412Z",
+      "category": "Compliance Guidance",
+      "region": "Singapore",
+      "title_zh": "IMDA与Scale Advance携手，以全新法律推理方式推进人工智能评估 | IMDA",
+      "summary_zh": "我们致力于在数字领域制定国际规则和规范我们致力于将新加坡打造为值得信赖的数据枢纽了解更多有关IMDA的就业机会，并加入我们，成为新加坡数字……的缔造者"
+    },
     {
       "id": "https://www.imda.gov.sg/resources/innovative-tech-companies-directory/elgo-ai",
       "title": "Elgo AI | IMDA",
