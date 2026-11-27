@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "lastSyncedAt": "2026-11-27T08:32:28.634Z",
+  "lastSyncedAt": "2026-11-27T21:16:54.080Z",
   "items": [
+    {
+      "id": "https://www.oaic.gov.au/__data/assets/pdf_file/0030/269652/Law-Council-of-Australia.pdf",
+      "title": "ADM Transparency Obligation",
+      "summary": "2025). 2 Law Council, Privacy and Other Legislation Amendment Bill 2024 (Submission to Senate Legal and Constitutional Affairs Legislation Committee, 22 October 2024). Law Council, Positioning Australia as a Leader in Di...",
+      "url": "https://www.oaic.gov.au/__data/assets/pdf_file/0030/269652/Law-Council-of-Australia.pdf",
+      "source": "OAIC",
+      "publishedAt": "2026-11-27T21:16:47.229Z",
+      "category": "Privacy / Data Protection",
+      "region": "Australia",
+      "title_zh": "ADM透明度义务",
+      "summary_zh": "2025）。2 法律委员会，《2024年隐私和其他立法修正案》（提交至参议院法律和宪法事务立法委员会，2024年10月22日）。法律委员会，将澳大利亚定位为数字领域的领导者……"
+    },
     {
       "id": "https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans/ai-adoption-plan-digital-and-technologies",
       "title": "AI Adoption Plan: Digital and Technologies - GOV.UK",
